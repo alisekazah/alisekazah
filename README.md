@@ -1,13 +1,12 @@
 Languages and Framework 
-HTML, CSS, JavaScript, Python, PHP, C#
-
+HTML, CSS, JavaScript, Python, REACT PHP.
+typscript tailwind djsngo
 
 Software
-Adobe Photoshop, Unity, Ren'py, Twine, FIGMA, FL STUDIO, Abketon
+Adobe Photoshop, Ren'py, Twine, FIGMA, FL STUDIO, Ableton
 
 
-Databases
-MondoBD Firebase
+
 
 
 
